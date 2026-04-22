@@ -1,0 +1,11 @@
+/workspaces/todoapp/src/main/java/com/todoapp/TodoAppApplication.java
+/workspaces/todoapp/src/main/java/com/todoapp/controller/TaskController.java
+/workspaces/todoapp/src/main/java/com/todoapp/dto/TaskRequest.java
+/workspaces/todoapp/src/main/java/com/todoapp/dto/TaskResponse.java
+/workspaces/todoapp/src/main/java/com/todoapp/entity/Task.java
+/workspaces/todoapp/src/main/java/com/todoapp/entity/TaskStatus.java
+/workspaces/todoapp/src/main/java/com/todoapp/exception/GlobalExceptionHandler.java
+/workspaces/todoapp/src/main/java/com/todoapp/exception/TaskNotFoundException.java
+/workspaces/todoapp/src/main/java/com/todoapp/repository/TaskRepository.java
+/workspaces/todoapp/src/main/java/com/todoapp/service/TaskService.java
+/workspaces/todoapp/src/main/java/com/todoapp/service/impl/TaskServiceImpl.java
